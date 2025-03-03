@@ -23,11 +23,11 @@ My name is Sitong Wang, you can call me Kane Wang in English. I'm currently an u
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-<span style="color: red;">Sincerely looking for 2026 Fall Graduate / Doctoral student position!</span>
+# <span style="color: red;">Sincerely looking for 2026 Fall Graduate / Doctoral student position!</span>
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 I have won the **Third-class Scholarship of South China University of Technology** for the academic year 2022-2023!
-- *2024.02*: &nbsp;🎉🎉 I have won the **Third-class Scholarship of South China University of Technology** for the academic year 2022-2023!
+- *2024.02*: &nbsp;🎉🎉 I have won **<span style="color: red;">Finalist</span> of 2024 Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM)**！<span style="color: red;">Top(2%)</span>
 - *2023.12*: &nbsp;🎉🎉 I have won the **Third-class Scholarship of South China University of Technology** for the academic year 2022-2023!
 - *2022.09*: &nbsp;🎉🎉 I came to **South China University of Technology** to start my undergraduate student life! 
 
