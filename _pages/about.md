@@ -32,6 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 Coming Soon!
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,18 +46,33 @@ Coming Soon!
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.04* **Second Prize of the southern division of 2024 MathorCup Mathematics Application Challenge**，Chinese Society of Optimization, Overall Planning and Economic Mathematics.
+- *2024.02* **Finalist of 2024 Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM)**，Consortium for Mathematics and its Applications (COMAP).
+- *2023.12* **Third-class Scholarship**，for the academic year 2022-2023, South China University of Technology.
+- *2023.12* **Second Prize of 2023 'The Greater Bay Area Cup' Guangdong-Hong Kong-Macao Financial Mathematical Modeling Competition**，Guangdong Society for Industrial and Applied Mathematics. 
+- *2023.11* **Outstanding Individual in Social Practice**, for the 2023 summer vacation, South China University of Technology.
+- *2023.03* **First Prize of Future Technology - Baidu PaddlePaddle Cup Student Science and Technology Works Competition**，School of Future Technology, South China University of Technology.
 
 # 📖 Educations
 - *2022.09 - present*, Undergraduate, School of Future Technology, South China University of Technology, Guangzhou, China. 
 - *2019.09 - 2022.06*, Jinling High School, Nanjing, China. 
 
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
+
