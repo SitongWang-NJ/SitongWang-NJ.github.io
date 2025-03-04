@@ -21,7 +21,7 @@ redirect_from:
 
 My name is Sitong Wang, you can call me Kane Wang in English. I'm currently an undergraduate student of South China University of Technology (SCUT) at Guangzhou, China, majoring in Artificial Intelligence. Here is my CV for specific information.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Computer Vision and Commputer Graphics. Current work in process is focusing on 3D Scene Reconstruction. 
 
 ## <span style="color: red;">Sincerely looking for 2026 Fall Graduate / Doctoral student position!</span>
 
@@ -53,10 +53,11 @@ Coming Soon!
 
 
 # 🎖 Honors and Awards
-- *2024.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2024.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2024.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2024.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.12* **Third-class Scholarship**，for the academic year 2023-2024, South China University of Technology.
+- *2024.09* **First Prize in Guangdong Province of 2024 Higher Education Press Cup National College Students Mathematical Modeling Contest**，China Society for Industrial and Applied Mathematics.
+- *2024.06* **Outstanding Individual in Work-Study Program**, for the academic year 2023-2024, South China University of Technology.
+- *2024.05* **Outstanding Communist Youth League Member**, for the year 2023, Junde College, South China University of Technology.
+- *2024.04* **Outstanding Individual in Social Practice**, for the 2024 winter vacation, South China University of Technology.
 - *2024.04* **Second Prize of the southern division of 2024 MathorCup Mathematics Application Challenge**，Chinese Society of Optimization, Overall Planning and Economic Mathematics.
 - *2024.02* **Finalist of 2024 Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM)**，Consortium for Mathematics and its Applications (COMAP).
 - *2023.12* **Third-class Scholarship**，for the academic year 2022-2023, South China University of Technology.
