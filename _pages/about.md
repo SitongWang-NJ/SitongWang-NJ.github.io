@@ -19,7 +19,7 @@ redirect_from:
 
 # About me
 
-My name is Sitong Wang, you can call me Kane Wang in English. I'm currently an undergraduate student of South China University of Technology (SCUT) at Guangzhou, China, majoring in Artificial Intelligence. Here is my CV for specific information.
+My name is Sitong Wang, you can call me Kane Wang in English. I'm currently an undergraduate student of South China University of Technology (SCUT) at Guangzhou, China, majoring in Artificial Intelligence. Here is my [CV](files/SitongWang-CV-English.pdf) for specific information.
 
 My research interest includes Computer Vision and Commputer Graphics. Current work in process is focusing on 3D Scene Reconstruction. 
 
