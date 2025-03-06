@@ -23,7 +23,7 @@ My name is Sitong Wang, you can call me Kane Wang in English. I'm currently an u
 
 My research interest includes Computer Vision and Commputer Graphics. Current work in process is focusing on 3D Scene Reconstruction. 
 
-## <span style="color: red;">Sincerely looking for 2026 Fall Graduate / Doctoral student position!</span>
+## <span style="color: red;">Sincerely looking for 2026 Fall Master / Ph.D. student position!</span>
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 I have won the **Third-class Scholarship of South China University of Technology** for the academic year 2023-2024!
