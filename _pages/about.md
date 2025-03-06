@@ -55,6 +55,7 @@ Coming Soon!
 # 🎖 Honors and Awards
 - *2024.12* **Third-class Scholarship**，for the academic year 2023-2024, South China University of Technology.
 - *2024.09* **First Prize in Guangdong Province of 2024 Higher Education Press Cup National College Students Mathematical Modeling Contest**，China Society for Industrial and Applied Mathematics.
+- *2024.09* **Graduate Student of South China University of technology - Baidu Pinecone Talent Training Elite Class**，Baidu Campus.
 - *2024.06* **Outstanding Individual in Work-Study Program**, for the academic year 2023-2024, South China University of Technology.
 - *2024.05* **Outstanding Communist Youth League Member**, for the year 2023, Junde College, South China University of Technology.
 - *2024.04* **Outstanding Individual in Social Practice**, for the 2024 winter vacation, South China University of Technology.
