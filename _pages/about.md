@@ -40,8 +40,11 @@ My research interest includes Computer Vision and Commputer Graphics. Current wo
 
 Xiaohan Zhang†, **Sitong Wang†**, Yushen Yan, Yi Yang, Mingda Xu, and Qi Liu*
 
+<!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
+
+-  We propose TraGraph-GS, a novel view synthesis method based on trajectory graphs that is capable of high-quality rendering for arbitrarily large-scale scenes.
 </div>
 </div>
 
