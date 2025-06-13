@@ -48,10 +48,6 @@ Xiaohan Zhang†, **Sitong Wang†**, Yushen Yan, Yi Yang, Mingda Xu, and Qi Liu
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-
-
 # 🎖 Honors and Awards
 - *2025.05* **Youth One-Star Volunteer**, South China University of Technology.
 - *2025.05* **Outstanding Cadre of Communist Youth League**, for the year 2024, South China University of Technology.
