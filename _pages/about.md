@@ -33,15 +33,12 @@ My research interest includes Computer Vision and Commputer Graphics. Current wo
 
 # 📝 Publications 
 
-Coming Soon!
-
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering](https://arxiv.org/pdf/2506.08704)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xiaohan Zhang†, **Sitong Wang†**, Yushen Yan, Yi Yang, Mingda Xu, and Qi Liu*
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -49,22 +46,25 @@ Coming Soon!
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
+
 
 
 # 🎖 Honors and Awards
-- *2024.12* **Third-class Scholarship**，for the academic year 2023-2024, South China University of Technology.
-- *2024.12* **First Prize in Guangdong Province of 2024 Higher Education Press Cup National College Students Mathematical Modeling Contest**，China Society for Industrial and Applied Mathematics.
-- *2024.09* **Graduate Student of South China University of technology - Baidu Pinecone Talent Training Elite Class**，Baidu Campus.
+- *2025.05* **Youth One-Star Volunteer**, South China University of Technology.
+- *2025.05* **Outstanding Cadre of Communist Youth League**, for the year 2024, South China University of Technology.
+- *2025.05* **4th place in "3D Reconstruction From Monocular Multi-Food Images" competition**, CVPR 2025 MetaFood Workshop.
+- *2024.12* **Third-class Scholarship**, for the academic year 2023-2024, South China University of Technology.
+- *2024.12* **First Prize in Guangdong Province of 2024 Higher Education Press Cup National College Students Mathematical Modeling Contest**, China Society for Industrial and Applied Mathematics.
+- *2024.09* **Graduate Student of South China University of Technology - Baidu Pinecone Talent Training Elite Class**, Baidu Campus.
 - *2024.06* **Outstanding Individual in Work-Study Program**, for the academic year 2023-2024, South China University of Technology.
-- *2024.05* **Outstanding Communist Youth League Member**, for the year 2023, Junde College, South China University of Technology.
+- *2024.05* **Outstanding Member of Communist Youth League**, for the year 2023, Junde College, South China University of Technology.
 - *2024.04* **Outstanding Individual in Social Practice**, for the 2024 winter vacation, South China University of Technology.
-- *2024.04* **Second Prize of the southern division of 2024 MathorCup Mathematics Application Challenge**，Chinese Society of Optimization, Overall Planning and Economic Mathematics.
-- *2024.02* **Finalist of 2024 Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM)**，Consortium for Mathematics and its Applications (COMAP).
-- *2023.12* **Third-class Scholarship**，for the academic year 2022-2023, South China University of Technology.
-- *2023.12* **Second Prize of 2023 'The Greater Bay Area Cup' Guangdong-Hong Kong-Macao Financial Mathematical Modeling Competition**，Guangdong Society for Industrial and Applied Mathematics. 
+- *2024.04* **Second Prize of the southern division of 2024 MathorCup Mathematics Application Challenge**, Chinese Society of Optimization, Overall Planning and Economic Mathematics.
+- *2024.02* **Finalist of 2024 Mathematical Contest in Modeling (MCM)**, Consortium for Mathematics and its Applications (COMAP).
+- *2023.12* **Third-class Scholarship**, for the academic year 2022-2023, South China University of Technology.
+- *2023.12* **Second Prize of 2023 'The Greater Bay Area Cup' Guangdong-Hong Kong-Macao Financial Mathematical Modeling Competition**, Guangdong Society for Industrial and Applied Mathematics. 
 - *2023.11* **Outstanding Individual in Social Practice**, for the 2023 summer vacation, South China University of Technology.
-- *2023.03* **First Prize of Future Technology - Baidu PaddlePaddle Cup Student Science and Technology Works Competition**，School of Future Technology, South China University of Technology.
+- *2023.03* **First Prize of Future Technology - Baidu PaddlePaddle Cup Student Science and Technology Works Competition**, School of Future Technology, South China University of Technology.
 
 # 📖 Educations
 - *2022.09 - present*, Undergraduate, School of Future Technology, South China University of Technology, Guangzhou, China. 
