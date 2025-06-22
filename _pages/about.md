@@ -27,7 +27,7 @@ My research interest includes Computer Vision and Commputer Graphics. Current wo
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 I have won the **Third-class Scholarship of South China University of Technology** for the academic year 2023-2024!
-- *2024.02*: &nbsp;🎉🎉 I have won **<span style="color: red;">Finalist</span> of 2024 Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM)**！<span style="color: red;">(Top 2%)</span>
+- *2024.02*: &nbsp;🎉🎉 I have won **<span style="color: red;">Finalist</span> of 2024 Mathematical Contest in Modeling (MCM)**！<span style="color: red;">(Top 2%)</span>
 - *2023.12*: &nbsp;🎉🎉 I have won the **Third-class Scholarship of South China University of Technology** for the academic year 2022-2023!
 - *2022.09*: &nbsp;🎉🎉 I came to **South China University of Technology** to start my undergraduate student life! 
 
