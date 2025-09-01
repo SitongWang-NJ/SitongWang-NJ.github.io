@@ -21,7 +21,7 @@ redirect_from:
 
 My name is Sitong Wang, you can call me Kane Wang in English. I'm currently an undergraduate student of South China University of Technology (SCUT) at Guangzhou, China, majoring in Artificial Intelligence. Here is my [CV](files/SitongWang-CV-English.pdf) for specific information.
 
-My research interest includes Computer Vision and Commputer Graphics. Current work in process is focusing on 3D Scene Reconstruction. 
+My research interest includes Computer Vision and Computer Graphics. Current work in process is focusing on 3D Reconstruction. 
 
 ## <span style="color: red;">Sincerely looking for 2026 Fall Master / Ph.D. student position!</span>
 
@@ -49,25 +49,20 @@ Xiaohan Zhang†, **Sitong Wang†**, Yushen Yan, Yi Yang, Mingda Xu, and Qi Liu
 </div>
 
 # 🎖 Honors and Awards
-- *2025.05* **Youth One-Star Volunteer**, South China University of Technology.
-- *2025.05* **Outstanding Cadre of Communist Youth League**, for the year 2024, South China University of Technology.
+- *2025.06* **Third-Class Scientific and Technological Innovation Award of "Future Technology Taihu Innovation Award"**, School of Future Technology, South China University of Technology.
 - *2025.05* **4th place in "3D Reconstruction From Monocular Multi-Food Images" competition**, CVPR 2025 MetaFood Workshop.
-- *2024.12* **Third-class Scholarship**, for the academic year 2023-2024, South China University of Technology.
+- *2024.12* **Third-Class Scholarship**, for the academic year 2023-2024, South China University of Technology.
 - *2024.12* **First Prize in Guangdong Province of 2024 Higher Education Press Cup National College Students Mathematical Modeling Contest**, China Society for Industrial and Applied Mathematics.
 - *2024.09* **Graduate Student of South China University of Technology - Baidu Pinecone Talent Training Elite Class**, Baidu Campus.
-- *2024.06* **Outstanding Individual in Work-Study Program**, for the academic year 2023-2024, South China University of Technology.
-- *2024.05* **Outstanding Member of Communist Youth League**, for the year 2023, Junde College, South China University of Technology.
-- *2024.04* **Outstanding Individual in Social Practice**, for the 2024 winter vacation, South China University of Technology.
 - *2024.04* **Second Prize of the southern division of 2024 MathorCup Mathematics Application Challenge**, Chinese Society of Optimization, Overall Planning and Economic Mathematics.
 - *2024.02* **Finalist of 2024 Mathematical Contest in Modeling (MCM)**, Consortium for Mathematics and its Applications (COMAP).
-- *2023.12* **Third-class Scholarship**, for the academic year 2022-2023, South China University of Technology.
+- *2023.12* **Third-Class Scholarship**, for the academic year 2022-2023, South China University of Technology.
 - *2023.12* **Second Prize of 2023 'The Greater Bay Area Cup' Guangdong-Hong Kong-Macao Financial Mathematical Modeling Competition**, Guangdong Society for Industrial and Applied Mathematics. 
-- *2023.11* **Outstanding Individual in Social Practice**, for the 2023 summer vacation, South China University of Technology.
 - *2023.03* **First Prize of Future Technology - Baidu PaddlePaddle Cup Student Science and Technology Works Competition**, School of Future Technology, South China University of Technology.
 
 # 📖 Educations
 - *2022.09 - present*, Undergraduate, School of Future Technology, South China University of Technology, Guangzhou, China. 
-- *2019.09 - 2022.06*, Jinling High School, Nanjing, China. 
+- *2019.09 - 2022.07*, Jinling High School, Nanjing, China. 
 
 <!--
 # 💬 Invited Talks
