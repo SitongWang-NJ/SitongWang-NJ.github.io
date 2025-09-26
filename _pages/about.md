@@ -21,9 +21,11 @@ redirect_from:
 
 My name is Sitong Wang, you can call me Kane Wang in English. I'm currently an undergraduate student of South China University of Technology (SCUT) at Guangzhou, China, majoring in Artificial Intelligence. Here is my [CV](files/SitongWang-CV-English.pdf) for specific information.
 
-My research interest includes Computer Vision and Computer Graphics. Current work in process is focusing on 3D Reconstruction. 
+My research interest includes Computer Vision and Computer Graphics. Current work in process is focusing on 3D Digital Hunan. 
 
+<!--
 ## <span style="color: red;">Sincerely looking for 2026 Fall Master / Ph.D. student position!</span>
+-->
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 I have won the **Third-Class Scholarship of South China University of Technology** for the academic year 2023-2024!
