@@ -23,10 +23,6 @@ My name is Sitong Wang, you can call me Kane Wang in English. I'm currently an u
 
 My research interest includes Computer Vision and Computer Graphics. Current work in process is focusing on 3D Digital Hunan. 
 
-<!--
-## <span style="color: red;">Sincerely looking for 2026 Fall Master / Ph.D. student position!</span>
--->
-
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 I have won the **Third-Class Scholarship of South China University of Technology** for the academic year 2023-2024!
 - *2024.02*: &nbsp;🎉🎉 I have won **<span style="color: red;">Finalist</span> of 2024 Mathematical Contest in Modeling (MCM)**！<span style="color: red;">(Top 2%)</span>
@@ -73,8 +69,7 @@ Xiaohan Zhang†, **Sitong Wang†**, Yushen Yan, Yi Yang, Mingda Xu, and Qi Liu
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-<!--
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+- *2024.10 - present*, [MPRG Lab](https://drliuqi.github.io/laboratory_students), School of Future Technology, South China University of Technology, Guangzhou, China.
+
 
