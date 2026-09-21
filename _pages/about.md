@@ -21,7 +21,7 @@ redirect_from:
 
 My name is Sitong Wang, you can call me Kane Wang in English. I'm currently a Ph.D. student at the School of Intelligence Science and Technology, Nanjing University. Here is my [CV](files/SitongWang-CV-English.pdf) for specific information.
 
-My research interest includes Computer Vision and Physical Intelligence. Current work in process is focusing on 3D Scene Reconstruction and Simulation. 
+My research interest includes Computer Vision and Physical Intelligence. Current work is focusing on 3D Scene Reconstruction and Simulation. 
 
 <span style="color: red; font-weight: bold;">Last Update: Sep 21, 2026</span>
 
