@@ -32,7 +32,7 @@ My research interest includes Computer Vision and Physical Intelligence. Current
 - *Dec. 2024*: &nbsp;🎉🎉 I have won the **Third-Class Scholarship of South China University of Technology** for the academic year 2023-2024!
 - *Feb. 2025*: &nbsp;🎉🎉 I have won **<span style="color: red;">Finalist</span> of 2024 Mathematical Contest in Modeling (MCM)**！<span style="color: red;">(Top 2%)</span>
 - *Dec. 2023*: &nbsp;🎉🎉 I have won the **Third-Class Scholarship of South China University of Technology** for the academic year 2022-2023!
-- *Sep. 2022*: &nbsp;🎉🎉 I came to **South China University of Technology** to start my undergraduate student life! 
+- *Sep. 2022*: &nbsp;🎉🎉 I came to **South China University of Technology** to start my undergraduate life! 
 
 # 📝 Publications 
 
@@ -66,6 +66,7 @@ Xiaohan Zhang†, **Sitong Wang†**, Yushen Yan, Yi Yang, Mingda Xu, and Qi Liu
 - *Mar. 2023*: **First Prize of Future Technology - Baidu PaddlePaddle Cup Student Science and Technology Works Competition**, School of Future Technology, South China University of Technology.
 
 # 📖 Educations
+- *Sep. 2026 - present*: Ph.D. student, School of Intelligence Science and Technology, Nanjing University, Suzhou, China. 
 - *Sep. 2022 - Jun. 2026*: Undergraduate, School of Future Technology, South China University of Technology, Guangzhou, China. 
 - *Sep. 2019 - Jun. 2022*: Jinling High School, Nanjing, China. 
 
