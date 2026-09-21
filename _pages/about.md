@@ -19,13 +19,15 @@ redirect_from:
 
 # About me
 
-My name is Sitong Wang, you can call me Kane Wang in English. I'm currently an undergraduate student of South China University of Technology (SCUT) at Guangzhou, China, majoring in Artificial Intelligence. Here is my [CV](files/SitongWang-CV-English.pdf) for specific information.
+My name is Sitong Wang, you can call me Kane Wang in English. I'm currently a Ph.D. student at the School of Intelligence Science and Technology, Nanjing University. Here is my [CV](files/SitongWang-CV-English.pdf) for specific information.
 
-My research interest includes Computer Vision and Computer Graphics. Current work in process is focusing on 3D Digital Hunan. 
+My research interest includes Computer Vision and Physical Intelligence. Current work in process is focusing on 3D Scene Reconstruction and Simulation. 
 
-<span style="color: red; font-weight: bold;">Last Update: Dec 24, 2025</span>
+<span style="color: red; font-weight: bold;">Last Update: Sep 21, 2026</span>
 
 # 🔥 News
+- *Sep. 2026*: &nbsp;🎉🎉 I came to **Nanjing University** to start my Ph.D. student life! 
+- *Jun. 2026*: &nbsp;🎉🎉 Our work [**TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering**](https://ieeexplore.ieee.org/document/11593447) has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence!
 - *Dec. 2025*: &nbsp;🎉🎉 I have won the **Third-Class Scholarship of South China University of Technology** for the academic year 2024-2025!
 - *Dec. 2024*: &nbsp;🎉🎉 I have won the **Third-Class Scholarship of South China University of Technology** for the academic year 2023-2024!
 - *Feb. 2025*: &nbsp;🎉🎉 I have won **<span style="color: red;">Finalist</span> of 2024 Mathematical Contest in Modeling (MCM)**！<span style="color: red;">(Top 2%)</span>
@@ -34,10 +36,10 @@ My research interest includes Computer Vision and Computer Graphics. Current wor
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering](https://arxiv.org/pdf/2506.08704)
+[TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering](https://ieeexplore.ieee.org/document/11593447)
 
 Xiaohan Zhang†, **Sitong Wang†**, Yushen Yan, Yi Yang, Mingda Xu, and Qi Liu*
 
@@ -64,8 +66,8 @@ Xiaohan Zhang†, **Sitong Wang†**, Yushen Yan, Yi Yang, Mingda Xu, and Qi Liu
 - *Mar. 2023*: **First Prize of Future Technology - Baidu PaddlePaddle Cup Student Science and Technology Works Competition**, School of Future Technology, South China University of Technology.
 
 # 📖 Educations
-- *Sep. 2022 - present*: Undergraduate, School of Future Technology, South China University of Technology, Guangzhou, China. 
-- *Sep. 2019 - Jul. 2022*: Jinling High School, Nanjing, China. 
+- *Sep. 2022 - Jun. 2026*: Undergraduate, School of Future Technology, South China University of Technology, Guangzhou, China. 
+- *Sep. 2019 - Jun. 2022*: Jinling High School, Nanjing, China. 
 
 <!--
 # 💬 Invited Talks
@@ -74,6 +76,6 @@ Xiaohan Zhang†, **Sitong Wang†**, Yushen Yan, Yi Yang, Mingda Xu, and Qi Liu
 -->
 
 # 💻 Internships
-- *Oct. 2024 - Jun. 2025*: [MPRG Lab](https://drliuqi.github.io/laboratory_students), School of Future Technology, South China University of Technology, Guangzhou, China.
+- *Oct. 2024 - Apr. 2026*: [MPRG Lab](https://drliuqi.github.io/laboratory_students), School of Future Technology, South China University of Technology, Guangzhou, China.
 
 
