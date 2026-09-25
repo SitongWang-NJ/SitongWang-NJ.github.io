@@ -6,8 +6,8 @@
     <meta name="theme-color" content="#0b0d10" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <title>定格 · 视频逐帧查看器</title>
-    <script type="module" crossorigin src="./assets/index-Cn6HU--g.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-CFZdkZen.css">
+    <script type="module" crossorigin src="./assets/index-B-rlCZKN.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CGrL_X2f.css">
   </head>
   <body>
     <header class="topbar">
@@ -64,6 +64,12 @@
               <div class="timeline-meta"><span>00:00.000</span><span id="endTime">00:00.000</span></div>
             </div>
 
+            <div class="fine-seek">
+              <div class="fine-head"><span>毫秒精细轴</span><small>2 秒窗口 · 1 ms 步进</small></div>
+              <input id="fineTimeline" class="timeline fine-timeline" type="range" min="0" max="1" value="0" step="0.001" aria-label="毫秒精细时间轴" />
+              <div class="timeline-meta"><span id="fineStart">00:00.000</span><span id="fineEnd">00:00.000</span></div>
+            </div>
+
             <div class="transport">
               <button id="backFrame" class="control-button" type="button" aria-label="后退一帧">
                 <svg viewBox="0 0 24 24"><path d="M7 6v12M17 7l-7 5 7 5z"/></svg><span>上一帧</span>
@@ -95,6 +101,12 @@
                 <span>fps</span>
               </label>
             </div>
+
+            <form id="timecodeForm" class="timecode-form">
+              <label for="timecodeInput">直接输入时间码</label>
+              <div><input id="timecodeInput" type="text" inputmode="decimal" value="00:00.000" placeholder="01:26.035" autocomplete="off" /><button type="submit">精确定位</button></div>
+              <small>格式：01:26.035（分:秒.毫秒）或 01:02:03.045（时:分:秒.毫秒）</small>
+            </form>
           </div>
         </div>
 
