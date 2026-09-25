@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0b0d10" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>定格 · 视频逐帧查看器</title>
+    <script type="module" crossorigin src="./assets/index-B7D7CMYe.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BdST4_k9.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="定格首页">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span>定格</span>
+      </a>
+      <div class="top-actions">
+        <span class="privacy"><span class="privacy-dot"></span>仅在本机处理</span>
+        <button id="qrButton" class="icon-button" type="button" aria-label="显示手机访问二维码" title="手机访问">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM15 14h2v2h-2zM18 14h2v2h-2zM14 18h2v2h-2zM18 18h2v2h-2z"/></svg>
+        </button>
+      </div>
+    </header>
+
+    <main class="shell">
+      <section id="emptyState" class="empty-state">
+        <div class="eyebrow">FRAME ACCURATE · 毫秒级定位</div>
+        <h1>在时间里，<em>找到那一帧。</em></h1>
+        <p>从相册选择视频。慢慢拖动、逐帧查看，精确停在想要的瞬间。</p>
+        <label class="upload-card" for="videoInput">
+          <span class="upload-icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16V4m0 0L7.5 8.5M12 4l4.5 4.5M5 14v5h14v-5"/></svg>
+          </span>
+          <strong>选择视频</strong>
+          <span>支持 MP4、MOV、WebM 等浏览器可播放格式</span>
+          <small>视频留在你的设备上，不会被上传</small>
+        </label>
+        <input id="videoInput" type="file" accept="video/*" />
+      </section>
+
+      <section id="studio" class="studio" hidden>
+        <div class="stage-column">
+          <div class="video-stage">
+            <video id="video" playsinline preload="metadata"></video>
+            <button id="stagePlay" class="stage-play" type="button" aria-label="播放">
+              <svg class="play-symbol" viewBox="0 0 24 24"><path d="m9 7 8 5-8 5z"/></svg>
+              <svg class="pause-symbol" viewBox="0 0 24 24"><path d="M8 7h3v10H8zM13 7h3v10h-3z"/></svg>
+            </button>
+            <div class="frame-badge"><span>实际帧</span><strong id="actualTime">00:00.000</strong></div>
+          </div>
+
+          <div class="timeline-panel">
+            <div class="timeline-head">
+              <div>
+                <span class="section-label">目标时间</span>
+                <div id="mainTime" class="main-time">00:00.<b>000</b></div>
+              </div>
+              <div class="duration-block"><span>总时长</span><strong id="durationText">00:00.000</strong></div>
+            </div>
+
+            <div class="timeline-wrap">
+              <input id="timeline" class="timeline" type="range" min="0" max="1" value="0" step="0.001" aria-label="视频时间轴" />
+              <div class="timeline-meta"><span>00:00.000</span><span id="endTime">00:00.000</span></div>
+            </div>
+
+            <div class="transport">
+              <button id="backFrame" class="control-button" type="button" aria-label="后退一帧">
+                <svg viewBox="0 0 24 24"><path d="M7 6v12M17 7l-7 5 7 5z"/></svg><span>上一帧</span>
+              </button>
+              <button id="playButton" class="play-button" type="button" aria-label="播放或暂停">
+                <svg class="play-symbol" viewBox="0 0 24 24"><path d="m9 7 8 5-8 5z"/></svg>
+                <svg class="pause-symbol" viewBox="0 0 24 24"><path d="M8 7h3v10H8zM13 7h3v10h-3z"/></svg>
+              </button>
+              <button id="forwardFrame" class="control-button" type="button" aria-label="前进一帧">
+                <svg viewBox="0 0 24 24"><path d="M17 6v12M7 7l7 5-7 5z"/></svg><span>下一帧</span>
+              </button>
+            </div>
+
+            <div class="precision-row">
+              <div class="nudge-group" aria-label="毫秒微调">
+                <button type="button" data-nudge="-0.1">−100 ms</button>
+                <button type="button" data-nudge="-0.01">−10 ms</button>
+                <button type="button" data-nudge="-0.001">−1 ms</button>
+                <button type="button" data-nudge="0.001">+1 ms</button>
+                <button type="button" data-nudge="0.01">+10 ms</button>
+                <button type="button" data-nudge="0.1">+100 ms</button>
+              </div>
+              <label class="fps-field">帧率
+                <select id="fpsSelect">
+                  <option value="23.976">23.976</option><option value="24">24</option><option value="25">25</option>
+                  <option value="29.97">29.97</option><option value="30" selected>30</option><option value="50">50</option>
+                  <option value="59.94">59.94</option><option value="60">60</option>
+                </select>
+                <span>fps</span>
+              </label>
+            </div>
+          </div>
+        </div>
+
+        <aside class="info-panel">
+          <div class="file-head">
+            <div class="file-icon"><svg viewBox="0 0 24 24"><path d="M5 3h9l5 5v13H5zM14 3v5h5M9 13h6M9 17h4"/></svg></div>
+            <div><strong id="fileName">video.mp4</strong><span id="fileSize">0 MB</span></div>
+            <label class="replace-button" for="videoInput">更换</label>
+          </div>
+          <div class="divider"></div>
+          <div class="info-title"><span>定位信息</span><small>LIVE</small></div>
+          <dl class="metrics">
+            <div><dt>目标时间</dt><dd id="detailTime">00:00.000</dd></div>
+            <div><dt>毫秒数</dt><dd id="milliseconds">0 ms</dd></div>
+            <div><dt>估算帧序号</dt><dd id="frameNumber"># 0</dd></div>
+            <div><dt>画面尺寸</dt><dd id="dimensions">—</dd></div>
+          </dl>
+          <div class="tip"><span>i</span><p>使用左右毫秒按钮精细定位；“上一帧 / 下一帧”会按所选帧率移动。</p></div>
+          <button id="copyTime" class="copy-button" type="button">
+            <svg viewBox="0 0 24 24"><path d="M8 8h11v11H8zM5 16H4V5h11v1"/></svg><span>复制当前时间码</span>
+          </button>
+        </aside>
+      </section>
+    </main>
+
+    <dialog id="qrDialog" class="qr-dialog">
+      <button id="closeQr" class="dialog-close" type="button" aria-label="关闭">×</button>
+      <div class="eyebrow">在手机上打开</div>
+      <h2>扫描二维码</h2>
+      <p>手机与电脑连接同一 Wi‑Fi，然后扫码访问。</p>
+      <div class="qr-box"><canvas id="qrCanvas"></canvas></div>
+      <code id="shareUrl"></code>
+      <small id="qrHint"></small>
+    </dialog>
+
+    <div id="toast" class="toast" role="status"></div>
+  </body>
+</html>
